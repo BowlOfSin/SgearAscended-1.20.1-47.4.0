@@ -1,6 +1,14 @@
 package net.bowlofsin.sgear_ascended;
 
 import com.mojang.logging.LogUtils;
+import net.bowlofsin.sgear_ascended.block.ModBlocks;
+import net.bowlofsin.sgear_ascended.block.entities.ModBlockEntities;
+import net.bowlofsin.sgear_ascended.entity.ModEntities;
+import net.bowlofsin.sgear_ascended.item.ModItems;
+import net.bowlofsin.sgear_ascended.loot.ModLootModifiers;
+import net.bowlofsin.sgear_ascended.recipe.ModRecipes;
+import net.bowlofsin.sgear_ascended.screen.ModMenuTypes;
+import net.bowlofsin.sgear_ascended.villager.ModVillagers;
 import net.minecraftforge.api.distmarker.Dist;
 import net.minecraftforge.common.MinecraftForge;
 import net.minecraftforge.event.BuildCreativeModeTabContentsEvent;
@@ -23,6 +31,21 @@ public class SGearAscendedMod
     public SGearAscendedMod(FMLJavaModLoadingContext context)
     {
         IEventBus modEventBus = context.getModEventBus();
+
+        ModBlocks.register(modEventBus);
+        ModItems.register(modEventBus);
+        ModEntities.register(modEventBus);
+
+        ModBlockEntities.register(modEventBus);
+        ModMenuTypes.register(modEventBus);
+
+        ModRecipes.register(modEventBus);
+
+
+        ModCreativeModeTabs.register(modEventBus);
+
+        ModLootModifiers.register(modEventBus);
+        ModVillagers.register(modEventBus);
 
         modEventBus.addListener(this::commonSetup);
 
