@@ -1,0 +1,76 @@
+{
+  "item.cowsgetmilked.mana_crystal": "Mana Crystal",
+  "item.cowsgetmilked.raw_mana_crystal": "Raw Mana Crystal",
+  "item.cowsgetmilked.mana_crystal_block": "Block of Mana Crystal",
+  "item.cowsgetmilked.raw_mana_crystal_block": "Block of raw Mana Crystal",
+  "item.cowsgetmilked.mana_crystal_ore": "Mana Crystal Ore",
+  "item.cowsgetmilked.deepslate_mana_crystal_ore": "Deepslate Mana Crystal Ore",
+  "item.cowsgetmilked.nether_mana_crystal_ore": "Nether Mana Crystal Ore",
+  "item.cowsgetmilked.end_mana_crystal_ore": "End Mana Crystal Ore",
+  "item.cowsgetmilked.arcanite_ingot": "Arcanite Ingot",
+  "item.cowsgetmilked.fertileofruit_seeds": "Fertile 'O Fruit Seeds",
+  "item.cowsgetmilked.fertileofruit": "Fertile 'O Fruit",
+
+  "item.cowsgetmilked.arcanite_pickaxe": "Arcanite Pickaxe",
+  "item.cowsgetmilked.arcanite_axe": "Arcanite Axe",
+  "item.cowsgetmilked.arcanite_sword": "Arcanite Sword",
+  "item.cowsgetmilked.arcanite_hoe": "Arcanite Hoe",
+  "item.cowsgetmilked.arcanite_shovel": "Arcanite Shovel",
+
+  "item.cowsgetmilked.arcanite_helmet": "Arcanite Helmet",
+  "item.cowsgetmilked.arcanite_chestplate": "Arcanite Chestplate",
+  "item.cowsgetmilked.arcanite_leggings": "Arcanite Leggings",
+  "item.cowsgetmilked.arcanite_boots": "Arcanite Boots",
+
+
+  "item.cowsgetmilked.bull_spawn_egg": "Bull Spawn Egg",
+  "item.cowsgetmilked.cow_spawn_egg": "Cow Spawn Egg",
+
+
+
+  "item.cowsgetmilked.cow_detector": "Cow Detector",
+  "tooltip.cowsgetmilked.cow_detector.tooltip": "Helps u find cows, how original:/",
+
+  "item.cowsgetmilked.rich_milk_bucket": "Bucket of Rich milk",
+
+
+  "block.cowsgetmilked.mana_crystal_block": "Block of Mana Crystal",
+  "block.cowsgetmilked.raw_mana_crystal_block": "Block of raw Mana Crystal",
+  "block.cowsgetmilked.mana_crystal_ore": "Mana Crystal Ore",
+  "block.cowsgetmilked.deepslate_mana_crystal_ore": "Deepslate Mana Crystal Ore",
+  "block.cowsgetmilked.nether_mana_crystal_ore": "Nether Mana Crystal Ore",
+  "block.cowsgetmilked.end_mana_crystal_ore": "End Mana Crystal Ore",
+
+  "block.cowsgetmilked.milking_station": "The Milking Station",
+
+  "block.cowsgetmilked.mana_crystal_stairs": "Mana Crystal stairs",
+  "block.cowsgetmilked.mana_crystal_slab": "Mana Crystal slab",
+  "block.cowsgetmilked.mana_crystal_button": "Mana Crystal button",
+  "block.cowsgetmilked.mana_crystal_pressure_plate": "Mana Crystal pressure plate",
+  "block.cowsgetmilked.mana_crystal_fence": "Mana Crystal fence",
+  "block.cowsgetmilked.mana_crystal_fence_gate": "Mana Crystal fence gate",
+  "block.cowsgetmilked.mana_crystal_wall": "Mana Crystal wall",
+  "block.cowsgetmilked.mana_crystal_door": "Mana Crystal door",
+  "block.cowsgetmilked.mana_crystal_trapdoor": "Mana Crystal trapdoor",
+
+  "creativetab.milky_ingredients_tab": "Cow's Ingredients Tab",
+  "creativetab.milky_tools_tab": "Cow's Tools Tab",
+  "creativetab.milky_functional_tab": "Cow's Machinery N Stuff Tab",
+  "creativetab.milky_misc_tab": "Cow's Misc Tab",
+  "creativetab.milky_decorative_tab": "Cow's Decorative~ Tab",
+  "creativetab.milky_building_tab": "Cow's Building Tab",
+  "creativetab.milky_foods_tab": "Cow's Milky! Foods Tab",
+
+  "entity.minecraft.villager.cowsgetmilked.milkman": "Milkman NOT Carlson",
+
+  "block.cowsgetmilked.mystical_log": "Mystical Log",
+  "block.cowsgetmilked.mystical_wood": "Mystical Wood",
+  "block.cowsgetmilked.mystical_planks": "Mystical Planks",
+  "block.cowsgetmilked.mystical_leaves": "Mystical Leaves",
+  "block.cowsgetmilked.stripped_mystical_log": "Stripped Mystical Log",
+  "block.cowsgetmilked.stripped_mystical_wood": "Stripped Mystical Wood",
+
+  "block.cowsgetmilked.mystical_sapling": "Mystical Tree Sapling"
+
+}
+

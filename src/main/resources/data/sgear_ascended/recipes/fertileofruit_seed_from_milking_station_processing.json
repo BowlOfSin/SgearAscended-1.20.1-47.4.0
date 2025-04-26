@@ -1,0 +1,12 @@
+{
+  "type": "cowsgetmilked:milking_station_processing",
+  "ingredients": [
+    {
+      "item": "cowsgetmilked:mana_crystal"
+    }
+  ],
+  "output": {
+    "count": 3,
+    "item": "cowsgetmilked:fertileofruit_seeds"
+  }
+}

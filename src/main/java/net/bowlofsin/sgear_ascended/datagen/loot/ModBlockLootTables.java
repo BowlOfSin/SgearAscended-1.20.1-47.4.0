@@ -1,8 +1,8 @@
 package net.bowlofsin.sgear_ascended.datagen.loot;
 
-import net.bowlofsin.cowsgetmilked.block.ModBlocks;
-import net.bowlofsin.cowsgetmilked.block.crops.FertileOFruitCropBlock;
-import net.bowlofsin.cowsgetmilked.item.ModItems;
+import net.bowlofsin.sgear_ascended.block.ModBlocks;
+import net.bowlofsin.sgear_ascended.block.crops.FertileOFruitCropBlock;
+import net.bowlofsin.sgear_ascended.item.ModItems;
 import net.minecraft.advancements.critereon.StatePropertiesPredicate;
 import net.minecraft.data.loot.BlockLootSubProvider;
 import net.minecraft.world.flag.FeatureFlags;

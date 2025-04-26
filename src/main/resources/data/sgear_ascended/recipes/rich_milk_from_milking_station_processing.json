@@ -1,0 +1,12 @@
+{
+  "type": "cowsgetmilked:milking_station_processing",
+  "ingredients": [
+    {
+      "item": "minecraft:milk_bucket"
+    }
+  ],
+  "output": {
+    "count": 1,
+    "item": "cowsgetmilked:rich_milk_bucket"
+  }
+}
